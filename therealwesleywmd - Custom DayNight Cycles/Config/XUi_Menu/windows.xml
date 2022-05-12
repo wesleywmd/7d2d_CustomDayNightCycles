@@ -1,0 +1,9 @@
+<customdaynightcycles>
+
+    <set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsGeneral']/grid/gameoption[@name='DayNightLength']/@values">10, 20, 30, 40, 50, 60, 75, 90, 120</set>
+    <set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsGeneral']/grid/gameoption[@name='DayLightLength']/@values">12, 14, 16, 18, 20</set>
+
+    <set xpath="/windows/window[@name='serverBrowser']/panel[@name='serverfilters']/panel[@name='TabSelector']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsBasic']/grid/browsergameoptioncombined[@name='DayNightLength']/@values">10, 20, 30, 40, 50, 60, 75, 90, 120</set>
+    <set xpath="/windows/window[@name='serverBrowser']/panel[@name='serverfilters']/panel[@name='TabSelector']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsBasic']/grid/browsergameoptioncombined[@name='DayLightLength']/@values">12, 14, 16, 18, 20</set>
+
+</customdaynightcycles>
